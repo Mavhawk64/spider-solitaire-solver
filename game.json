@@ -1,0 +1,290 @@
+{
+  "grid": [
+    [
+      {
+        "card": "C8",
+        "visible": false
+      },
+      {
+        "card": "CA",
+        "visible": false
+      },
+      {
+        "card": "C3",
+        "visible": false
+      },
+      {
+        "card": "C8",
+        "visible": false
+      },
+      {
+        "card": "C8",
+        "visible": false
+      },
+      {
+        "card": "CQ",
+        "visible": false
+      },
+      {
+        "card": "C8",
+        "visible": false
+      },
+      {
+        "card": "C6",
+        "visible": false
+      },
+      {
+        "card": "CK",
+        "visible": false
+      },
+      {
+        "card": "CT",
+        "visible": false
+      }
+    ],
+    [
+      {
+        "card": "CQ",
+        "visible": false
+      },
+      {
+        "card": "CA",
+        "visible": false
+      },
+      {
+        "card": "C7",
+        "visible": false
+      },
+      {
+        "card": "C7",
+        "visible": false
+      },
+      {
+        "card": "C3",
+        "visible": false
+      },
+      {
+        "card": "C4",
+        "visible": false
+      },
+      {
+        "card": "CT",
+        "visible": false
+      },
+      {
+        "card": "C7",
+        "visible": false
+      },
+      {
+        "card": "CK",
+        "visible": false
+      },
+      {
+        "card": "C6",
+        "visible": false
+      }
+    ],
+    [
+      {
+        "card": "C9",
+        "visible": false
+      },
+      {
+        "card": "C7",
+        "visible": false
+      },
+      {
+        "card": "CK",
+        "visible": false
+      },
+      {
+        "card": "C5",
+        "visible": false
+      },
+      {
+        "card": "C7",
+        "visible": false
+      },
+      {
+        "card": "C9",
+        "visible": false
+      },
+      {
+        "card": "CK",
+        "visible": false
+      },
+      {
+        "card": "CJ",
+        "visible": false
+      },
+      {
+        "card": "C6",
+        "visible": false
+      },
+      {
+        "card": "CJ",
+        "visible": false
+      }
+    ],
+    [
+      {
+        "card": "C4",
+        "visible": false
+      },
+      {
+        "card": "CA",
+        "visible": false
+      },
+      {
+        "card": "C5",
+        "visible": false
+      },
+      {
+        "card": "C5",
+        "visible": false
+      },
+      {
+        "card": "C6",
+        "visible": false
+      },
+      {
+        "card": "C6",
+        "visible": false
+      },
+      {
+        "card": "C3",
+        "visible": false
+      },
+      {
+        "card": "C7",
+        "visible": false
+      },
+      {
+        "card": "CA",
+        "visible": false
+      },
+      {
+        "card": "CK",
+        "visible": false
+      }
+    ],
+    [
+      {
+        "card": "CQ",
+        "visible": false
+      },
+      {
+        "card": "CJ",
+        "visible": false
+      },
+      {
+        "card": "CT",
+        "visible": false
+      },
+      {
+        "card": "C2",
+        "visible": false
+      },
+      {
+        "card": "C3",
+        "visible": true
+      },
+      {
+        "card": "C5",
+        "visible": true
+      },
+      {
+        "card": "CK",
+        "visible": true
+      },
+      {
+        "card": "CT",
+        "visible": true
+      },
+      {
+        "card": "CK",
+        "visible": true
+      },
+      {
+        "card": "C5",
+        "visible": true
+      }
+    ],
+    [
+      {
+        "card": "C8",
+        "visible": true
+      },
+      {
+        "card": "C9",
+        "visible": true
+      },
+      {
+        "card": "CJ",
+        "visible": true
+      },
+      {
+        "card": "C3",
+        "visible": true
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "remaining": [
+    "C3",
+    "C4",
+    "C2",
+    "C8",
+    "C9",
+    "C2",
+    "CQ",
+    "C5",
+    "C4",
+    "CT",
+    "C9",
+    "C2",
+    "CT",
+    "CA",
+    "C3",
+    "C5",
+    "C3",
+    "C2",
+    "CQ",
+    "C7",
+    "C4",
+    "CJ",
+    "CQ",
+    "CQ",
+    "C7",
+    "C4",
+    "C8",
+    "C2",
+    "C9",
+    "CJ",
+    "CK",
+    "CA",
+    "CT",
+    "CQ",
+    "C6",
+    "CJ",
+    "C6",
+    "C6",
+    "C4",
+    "C4",
+    "C5",
+    "C9",
+    "CJ",
+    "C9",
+    "CA",
+    "CA",
+    "C8",
+    "C2",
+    "C2",
+    "CT"
+  ]
+}
